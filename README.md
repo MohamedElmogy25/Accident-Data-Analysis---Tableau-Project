@@ -49,7 +49,6 @@ This project presents an interactive Tableau dashboard analyzing traffic acciden
 ## **Technology Used**
 - **Tableau** – Data visualization and dashboard creation.
 - **Data Source** – Traffic accident dataset (structured CSV format).
-- **Python/Pandas (Optional)** – Data preprocessing and cleaning.
 - **GitHub** – Version control and project collaboration.
 
 ## **How to Use**

@@ -61,5 +61,7 @@ This project presents an interactive Tableau dashboard analyzing traffic acciden
 4. Interact with the dashboard to explore accident trends and insights.
 5. Utilize insights to support policy development and accident prevention strategies.
 
+https://public.tableau.com/views/accidentdashboard_17420760588060/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## **Conclusion**
 This dashboard provides a data-driven approach to understanding road accidents, aiding in policy formulation and road safety improvements. The visualizations offer a clear picture of accident patterns, severity, and vehicle involvement over time. By leveraging this analysis, stakeholders can implement more effective safety measures and reduce accident occurrences.
